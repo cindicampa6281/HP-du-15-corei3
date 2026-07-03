@@ -1,3 +1,5 @@
+link download efi bản full https://drive.google.com/file/d/13HL8dYQO7eGNq3Q__jx19IMK3JOMad8d/view
+
 # HP-du-15-corei3
 core i3
 ram 12gb
